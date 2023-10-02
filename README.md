@@ -1,0 +1,14 @@
+# lynx-user 13 TQ3A.230805.001 10316531 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: lynx
+- flavor: lynx-user
+- release: 13
+- id: TQ3A.230805.001
+- incremental: 10316531
+- tags: release-keys
+- fingerprint: google/lynx/lynx:13/TQ3A.230805.001/10316531:user/release-keys
+- is_ab: true
+- brand: google
+- branch: lynx-user-13-TQ3A.230805.001-10316531-release-keys
+- repo: google_lynx_dump
